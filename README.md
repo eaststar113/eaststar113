@@ -31,7 +31,15 @@
 
 #### 🌱
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=onething42)](https://solved.ac/onething42) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaststar113&layout=compact)
+<div style="display: flex; align-items: center;">
+  <a href="https://solved.ac/onething42" style="margin-right: 10px;">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=onething42" alt="Solved.ac 프로필" height="150">
+  </a>
+  <a href="https://github.com/eaststar113">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaststar113&layout=compact" alt="Top Langs" height="150">
+  </a>
+</div>
+
 <!--
 **eaststar113/eaststar113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
