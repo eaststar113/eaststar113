@@ -29,9 +29,11 @@
 
 </div>
 
-####BOJ
+#### 🌱
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=onething42)](https://solved.ac/onething42)
+[![yikim2's 42 stats](https://badge42.coday.fr/api/v2/clvdkubj02288601p4c8pe30ep/stats?cursusId=21&coalitionId=454)](https://github.com/Coday-meric/badge42)
+
 <!--
 **eaststar113/eaststar113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
