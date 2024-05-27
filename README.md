@@ -6,7 +6,7 @@
 
 ---
 
-#### 🛠️ Tech Stack
+#### 🌕 Tech Stack
 <div align="center">
  
 <a href="https://developer.android.com" target="_blank" style="text-decoration: none;" rel="noreferrer"> <img src="http://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white" alt="android" height="24"/> </a> <!-- 안드로이드 -->
