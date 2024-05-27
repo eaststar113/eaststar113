@@ -28,6 +28,10 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="github" height="24"/> </a> <!-- Github -->
 
 </div>
+
+####BOJ
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=onething42)](https://solved.ac/onething42)
 <!--
 **eaststar113/eaststar113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
