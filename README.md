@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=500&size=28&pause=1000&color=00000F&random=false&width=435&lines=Hi%2C+I'm+Yi%F0%9F%91%8B;Welcome+to+my+github!)](https://git.io/typing-svg)
 
-<div align=center>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feaststar113&count_bg=%233DDC84&title_bg=%23555555&icon=icloud.svg&icon_color=%23E7E7E7&title=yi&edge_flat=false"/></a>
-</div>
+> | Period | Experience |
+> | :------------ | :--- |
+> | 2020.03 ~ 2025.08 | 경북대학교 사학과 & 컴퓨터학부 인공지능컴퓨팅전공 |
 
 ---
 
