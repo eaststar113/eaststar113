@@ -41,8 +41,8 @@
   <a href="https://solved.ac/onething42" style="margin-right: 10px;">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=onething42" alt="Solved.ac 프로필" height="150">
   </a>
-  <a href="https://github.com/eaststar113">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaststar113&layout=compact" alt="Top Langs" height="150">
+   <a href="https://github.com/eaststar113">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eaststar113&layout=compact" alt="Top Langs" height="150">
   </a>
 </div>
 
